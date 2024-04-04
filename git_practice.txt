@@ -1,1 +1,1 @@
-Text for test. Some changes, that need to be made in remote version.
+Clone version
