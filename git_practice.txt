@@ -1,1 +1,1 @@
-Text for test. Some text need to be added for testing.
+Text for test. Some changes, that need to be made in remote version.
