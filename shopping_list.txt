@@ -1,3 +1,5 @@
+Meat 
+Fish
 Milk
 Cooking oil
 Butter 
@@ -11,3 +13,4 @@ Honey
 Chopped tomatoes 
 Salt
 Pasta
+
