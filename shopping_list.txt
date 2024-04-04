@@ -1,5 +1,3 @@
-Pasta 
-Bread 
 All-purpose flour
 Breakfast cereal
 Milk
@@ -11,3 +9,5 @@ Onions
 Fruit 
 Vegetables 
 Fresh herbs & spices
+Honey 
+Chopped tomatoes 
